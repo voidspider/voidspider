@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I love **music, reading, cooking**
+- 🌱 I love **music, reading, cooking...**
 - 😈 However, I just can’t stop **coding**!
 - 🤔 I’m looking for some repo to contribute!
 - ~~😍 And I want to become a code master (我要成为代码高手~~
