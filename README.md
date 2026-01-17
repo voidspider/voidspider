@@ -18,11 +18,7 @@ Here are some ideas to get you started:
 <img align="right" alt="beacon1096's most used lang" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidspider">
 
 -->
-
-- 🌱 I love **music, reading, cooking...**
-- 😈 However, I just can’t stop **coding**!
-- 🤔 I’m looking for some repo to contribute!
-- ~~😍 And I want to become a code master (我要成为代码高手~~
+- ~~😍 I cant stop coding and I want to become a master coder (我要成为代码高手~~
 
 
 
